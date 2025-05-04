@@ -1,3 +1,9 @@
-# Ignore virtual environment folder
-myenv/
+# Ignore virtual environment folder/
+env_cnn/
 chest_xray/
+catdogs1000/cat
+catdogs1000/dog
+catdogs1000/dataset
+node_modules
+Dataset-Final
+datasets
